@@ -6,9 +6,10 @@
 <div class="twinkling"></div>
 <div class="clouds"></div>
 	<div id="zoom">
-		<h1>Desarrollador web</h1>
+		<h1>Programador Web y Escritorio (Bak-End) (Front-End)</h1>
 		<h2>Fernando R. Betancourt</h2>
-		<p>Java, Php, Oracle,</p>
+		<p>React, Vue, Sails.</p>
+		<p>Java, Php, Oracle, MongoDB, PostgreSQL</p>
 		<p>Css, Sass, Zurb, Bootsrap, Wordpress...</p>
 	</div>
 	<div id="perspectiva">
