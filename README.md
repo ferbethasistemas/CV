@@ -39,7 +39,6 @@
 			<p>Instituto Maurer: 2016</p>
 			<p>Documento: Certificado</p>
 
-			<!-- Habilidades -->
 			<h1>Habilidades</h1>
 			<h2>Programacion Java</h2>
 			<p>Nivel de conocimiento: 85%</p>
@@ -63,7 +62,6 @@
 			<p>Nivel de conocimiento: 20%</p>
 			<span class="anotacion">Actualmente Estudiando Nuevas tecnologías.</span>
 
-			<!-- Trabajos realizados -->
 			<h1>Principales trabajos realizados</h1>
 
 			<h2>SkyAngel</h2>
