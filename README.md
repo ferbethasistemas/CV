@@ -79,7 +79,5 @@
 		<a href="mailto:bethancourt@alice.it">bethancourt@alice.it</a><br>
 		<a href="mailto:fernando.rodriguez@skyangel.com.mx">fernando.rodriguez@skyangel.com.mx</a><br>
 		<p class="titulo">Agradecimientos</p>
-		<p>Música: Miguel Marín (Árbol)</p>
-		<p>Efecto estrellas: http://www.script-tutorials.com/night-sky-with-twinkling-stars/</p>
 	</div>
 </div>
